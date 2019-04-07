@@ -74,6 +74,8 @@ header nav {
 	width: 691px;
 	vertical-align: top;
 	margin-top: 35px;
+	background-color: black;
+	position: fixed;
 }
   
 header nav a {
@@ -97,6 +99,8 @@ header nav a:last-child {
   
 header .logo {
 	margin-top: 25px;
+	margin-left: 690px;
+	position: fixed;
 }
   
   /* cta */
